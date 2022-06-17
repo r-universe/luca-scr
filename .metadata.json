@@ -1,0 +1,14 @@
+[
+  {
+    "package": "GA",
+    "oncran": true
+  },
+  {
+    "package": "ppgmmga",
+    "oncran": true
+  },
+  {
+    "package": "qcc",
+    "oncran": true
+  }
+]
