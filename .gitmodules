@@ -8,13 +8,13 @@
 	url = https://github.com/luca-scr/ga
 	shallow = true
 	registered = true
-[submodule "qcc"]
-	path = qcc
-	url = https://github.com/luca-scr/qcc
-	shallow = true
-	registered = true
 [submodule "ppgmmga"]
 	path = ppgmmga
 	url = https://github.com/luca-scr/ppgmmga
+	shallow = true
+	registered = true
+[submodule "qcc"]
+	path = qcc
+	url = https://github.com/luca-scr/qcc
 	shallow = true
 	registered = true

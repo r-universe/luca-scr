@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "qcc",
+    "package": "ppgmmga",
     "oncran": true
   },
   {
-    "package": "ppgmmga",
+    "package": "qcc",
     "oncran": true
   }
 ]
