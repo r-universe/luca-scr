@@ -3,9 +3,34 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "clustvarsel"]
+	path = clustvarsel
+	url = https://github.com/cran/clustvarsel
+	shallow = true
+	registered = true
+[submodule "dispmod"]
+	path = dispmod
+	url = https://github.com/cran/dispmod
+	shallow = true
+	registered = true
 [submodule "GA"]
 	path = GA
 	url = https://github.com/luca-scr/ga
+	shallow = true
+	registered = true
+[submodule "mclust"]
+	path = mclust
+	url = https://github.com/cran/mclust
+	shallow = true
+	registered = true
+[submodule "mclustAddons"]
+	path = mclustAddons
+	url = https://github.com/cran/mclustAddons
+	shallow = true
+	registered = true
+[submodule "msir"]
+	path = msir
+	url = https://github.com/cran/msir
 	shallow = true
 	registered = true
 [submodule "ppgmmga"]
