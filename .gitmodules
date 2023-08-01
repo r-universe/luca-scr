@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "GA"]
+	path = GA
+	url = https://github.com/luca-scr/ga
 [submodule "clustvarsel"]
 	path = clustvarsel
 	url = https://github.com/cran/clustvarsel
 [submodule "dispmod"]
 	path = dispmod
 	url = https://github.com/cran/dispmod
-[submodule "GA"]
-	path = GA
-	url = https://github.com/luca-scr/ga
 [submodule "mclust"]
 	path = mclust
 	url = https://github.com/cran/mclust
