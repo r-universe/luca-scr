@@ -14,9 +14,6 @@
 [submodule "mclust"]
 	path = mclust
 	url = https://github.com/cran/mclust
-[submodule "mclustAddons"]
-	path = mclustAddons
-	url = https://github.com/cran/mclustAddons
 [submodule "msir"]
 	path = msir
 	url = https://github.com/cran/msir
