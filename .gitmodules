@@ -8,9 +8,6 @@
 [submodule "dispmod"]
 	path = dispmod
 	url = https://github.com/cran/dispmod
-[submodule "mclust"]
-	path = mclust
-	url = https://github.com/cran/mclust
 [submodule "msir"]
 	path = msir
 	url = https://github.com/cran/msir
