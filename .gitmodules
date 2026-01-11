@@ -8,9 +8,6 @@
 [submodule "dispmod"]
 	path = dispmod
 	url = https://github.com/cran/dispmod
-[submodule "msir"]
-	path = msir
-	url = https://github.com/cran/msir
 [submodule "ppgmmga"]
 	path = ppgmmga
 	url = https://github.com/luca-scr/ppgmmga
