@@ -5,9 +5,21 @@
 [submodule "GA"]
 	path = GA
 	url = https://github.com/luca-scr/ga
+[submodule "clustvarsel"]
+	path = clustvarsel
+	url = https://github.com/cran/clustvarsel
 [submodule "dispmod"]
 	path = dispmod
 	url = https://github.com/cran/dispmod
+[submodule "mclust"]
+	path = mclust
+	url = https://github.com/cran/mclust
+[submodule "mclustAddons"]
+	path = mclustAddons
+	url = https://github.com/cran/mclustAddons
+[submodule "msir"]
+	path = msir
+	url = https://github.com/cran/msir
 [submodule "ppgmmga"]
 	path = ppgmmga
 	url = https://github.com/luca-scr/ppgmmga
